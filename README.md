@@ -1,21 +1,18 @@
-# 💻 Weljoni — Security Researcher & Product Security Manager
+# 💻 weljoni@github:~$
 
-> Breaking systems to make them stronger.
+```bash
+> whoami
+weljoni | Security Researcher | Product Security Manager
 
----
+> skills
+- Penetration Testing & Web Security
+- Reverse Engineering & Exploit Development
+- Cryptography & Secure System Design
+- Machine Learning for Security
 
-### 🔍 What I Do  
-- Penetration Testing & Web Security  
-- Reverse Engineering & Exploit Development  
-- Cryptography & Secure System Design  
-- Applying Machine Learning to Security  
-
----
-
-### 🚀 Current Focus  
-- Building AI-powered security tools  
-- Hunting real-world vulnerabilities  
-- Exploring adversarial machine learning  
+> motto
+"Breaking systems to make them stronger."
+```
 
 ---
 
