@@ -1,24 +1,27 @@
-# 💻 weljoni@github:~$
+# 💻 Weljoni — Security Researcher & Product Security Manager
 
-```bash
-> whoami
-Security Researcher | CTF Player | ML Explorer
+> Breaking systems to make them stronger.
 
-> skills
-- Penetration Testing
-- Reverse Engineering
-- Cryptography
-- Machine Learning
+---
 
-> motto
-"Fall down seven times, stand up eight."
-```
+### 🔍 What I Do  
+- Penetration Testing & Web Security  
+- Reverse Engineering & Exploit Development  
+- Cryptography & Secure System Design  
+- Applying Machine Learning to Security  
+
+---
+
+### 🚀 Current Focus  
+- Building AI-powered security tools  
+- Hunting real-world vulnerabilities  
+- Exploring adversarial machine learning  
 
 ---
 
 ## 🧠 System Status
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Loading+Cybersecurity+Modules...;Running+CTF+Simulations...;Analyzing+Adversarial+ML+Models...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Loading+Cybersecurity+Modules...;Running+Real-World+Pentests...;Developing+Security+Tools...)
 
 ---
 
@@ -32,14 +35,14 @@ Security Researcher | CTF Player | ML Explorer
 
 ## 🐍 Network Visualization
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/weljoni/weljoni/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📂 Recent Operations
 
 - [x] 🔥 Built **AI-powered Security Tools**  
-- [x] 🕵️ Solved **Advanced CTF Challenges**  
+- [x] 🕵️ Discovered & Reported **High-impact Vulnerabilities**  
 - [ ] 🤖 Researching **Adversarial Machine Learning**  
 
 ---
