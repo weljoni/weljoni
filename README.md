@@ -45,12 +45,11 @@
 
 ---
 
-### 🔐 Security Vibes
+
+### 💻 Code Flow
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Lock-passed-brightgreen?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewall-active-orange?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Encryption-256-bit-blue?style=for-the-badge&logo=keybase&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-Champion-purple?style=for-the-badge&logo=ctf&logoColor=white" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Code flow animation" width="400px" />
 </p>
 
 ---
