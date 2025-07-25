@@ -45,10 +45,10 @@
 
 ---
 
-### 🕒 Real-time Clock
+### ⏰ Digital Clock
 
 <p align="center">
-  <img src="https://github.com/denvercoder1/readme-clock/blob/main/assets/clock.gif?raw=true" alt="Real-time clock" width="150px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=4A90E2&width=250&lines=12:34:56" alt="Digital Clock" />
 </p>
 
 ---
