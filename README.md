@@ -45,14 +45,14 @@
 
 ---
 
-
-### 💻 Code Flow
+### 🕒 Real-time Clock
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Code flow animation" width="400px" />
+  <img src="https://github.com/denvercoder1/readme-clock/blob/main/assets/clock.gif?raw=true" alt="Real-time clock" width="150px" />
 </p>
 
 ---
+
 
 ### 🌐 Connect with Me
 <p align="center">
