@@ -1,58 +1,65 @@
-# 💻 weljoni@github:~$
+<!-- 动态标题 -->
+<h1 align="center">Hi 👋, I'm Weljoni</h1>
+<h3 align="center">A Passionate Security Researcher & Developer</h3>
 
-```bash
-> whoami
-weljoni | Security Researcher | Product Security Manager
-
-> skills
-- Penetration Testing & Web Security
-- Reverse Engineering & Exploit Development
-- Cryptography & Secure System Design
-- Machine Learning for Security
-
-> motto
-"Breaking systems to make them stronger."
-```
+<!-- 动态打字效果 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Security+Researcher;Full-stack+Developer;CTF+Player;Machine+Learning+Explorer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧠 System Status
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Loading+Cybersecurity+Modules...;Running+Real-World+Pentests...;Developing+Security+Tools...)
-
----
-
-## ⚡ Activity Logs
-
-![Stats](https://github-readme-stats.vercel.app/api?username=weljoni&show_icons=true&theme=matrix)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=weljoni&theme=matrix)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weljoni&layout=compact&theme=matrix)
+### 🚀 About Me
+- 🔭 I’m currently working on **Cybersecurity & AI projects**  
+- 🌱 I’m learning **Reverse Engineering & Advanced ML**  
+- 💬 Ask me about **Penetration Testing, Cryptography, Java & Python Development**  
+- 📫 Reach me at **your-email@example.com**  
+- ⚡ Fun fact: **I love solving CTF challenges & building security tools**  
 
 ---
 
-## 🐍 Network Visualization
-
-![Snake animation](https://github.com/weljoni/weljoni/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📂 Recent Operations
-
-- [x] 🔥 Built **AI-powered Security Tools**  
-- [x] 🕵️ Discovered & Reported **High-impact Vulnerabilities**  
-- [ ] 🤖 Researching **Adversarial Machine Learning**  
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGauss-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## 📡 Contact
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weljoni&show_icons=true&theme=radical" alt="weljoni's github stats" />
+</p>
 
-```bash
-> ping weljoni
-github: https://github.com/weljoni
-email:  your-email@example.com
-status: Online
-```
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weljoni&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weljoni&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
-`> exit`
+### 🎯 Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350px">
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐️ From [weljoni](https://github.com/weljoni)
