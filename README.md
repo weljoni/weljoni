@@ -45,10 +45,12 @@
 
 ---
 
-### 🎯 Fun Animation
+### 🔐 Security Vibes
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350px">
+  <img src="https://img.shields.io/badge/Lock-passed-brightgreen?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall-active-orange?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encryption-256-bit-blue?style=for-the-badge&logo=keybase&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF-Champion-purple?style=for-the-badge&logo=ctf&logoColor=white" />
 </p>
 
 ---
