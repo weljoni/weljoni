@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Cybersecurity & AI projects**  
-- 🌱 I’m learning **Reverse Engineering & Advanced ML**  
+- 🌱 I’m exploring **Blockchain Threat Analysis & AI Security** 
 - 💬 Ask me about **Penetration Testing, Cryptography, Java & Python Development**  
 - 📫 Reach me at **weljoni@163.com**  
 - ⚡ Fun fact: **I love solving CTF challenges & building security tools**  
